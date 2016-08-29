@@ -1,6 +1,8 @@
 # About the Project
 Engage in a new musical compositional experience using capacitive touch sensors to trigger pre-recorded loops. This contains our open-source arduino code, processing sketch, and some pre-recorded wav files for such a project.
 
+The hacked guitar is a project aimed at bringing code to life. As part of M3Lab we are actively participating and designing new pedagogies and experiences for engaging learners in meaningful, public, and open-source coding opportunities. We utilize art, as defined by Dewey (1934) as “A process of doing or making” (p. 48), to engage and enrich real-life learning opportunities. This specific project was part of a larger interactive musical performance initiative, which employed and demonstrated various forms of coding (like the hacked guitar), live musicians, computer simulations, and public feedback that took place at the University of Calgary. Stay tuned for more ideas from the future.
+
 For more information check out our Instructables Guide **Coming Soon**
 
 # Getting Started
