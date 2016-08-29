@@ -1,7 +1,7 @@
 # About the Project
 Engage in a new musical compositional experience using capacitive touch sensors to trigger pre-recorded loops. This contains our open-source arduino code, processing sketch, and some pre-recorded wav files for such a project.
 
-For more information check out our Instructables **Coming Soon**
+For more information check out our Instructables Guide **Coming Soon**
 
 # Getting Started
 Once you have downloaded the Arduino IDE and Processing, open the Example files from Github.
@@ -21,3 +21,8 @@ Once the sketch is uploaded close the Arduino IDE and open up Processing
 3. Run the Program
 
 After you have completed the setup steps, save the Processing code so you don’t need to do anymore editing.
+
+#Advanced Steps
+Check out our Wiki for other tutorials for this project
+
+* [Adding/ Changing Sounds](http://github.com/rjb75/hacked-guitar/wiki/Changing-the-Sounds)
