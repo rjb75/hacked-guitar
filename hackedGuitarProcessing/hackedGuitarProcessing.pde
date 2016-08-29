@@ -28,7 +28,7 @@ void setup() {
   
   size(250,250);
   
-  myPort = new Serial(this, "/dev/cu.usbmodemFD1221", 9600); // initializing the object by assigning a port and baud rate (must match that of Arduino)
+  myPort = new Serial(this, "Port Name Here", 9600); // initializing the object by assigning a port and baud rate (must match that of Arduino)
   
   myPort.clear();  // function from serial library that throws out the first reading, in case we started reading in the middle of a string from Arduino
   output = myPort.readStringUntil(end); // function that reads the string from serial port until a println and then assigns string to our string variable (called 'serial')
