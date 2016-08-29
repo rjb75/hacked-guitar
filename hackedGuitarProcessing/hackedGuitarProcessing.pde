@@ -79,7 +79,7 @@ void draw() {
          total = 'd'; 
       }
       
-      print("case"); 
+      print("case "); 
       print(total);      //broadcast which case it is
       println(",");
       
