@@ -27,6 +27,6 @@ Once the sketch is uploaded close the Arduino IDE and open up Processing
 After you have completed the setup steps, save the Processing code so you don’t need to do anymore editing.
 
 #Advanced Steps
-Check out our Wiki for other tutorials for this project
+[Check out our Wiki for other tutorials for this project](https://github.com/rjb75/hacked-guitar/wiki)
 
 * [Adding/ Changing Sounds](http://github.com/rjb75/hacked-guitar/wiki/Changing-the-Sounds)
